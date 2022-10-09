@@ -1,1 +1,3 @@
 # sistemasInteligentes
+
+Algoritmo: decision trees
