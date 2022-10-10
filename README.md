@@ -2,6 +2,12 @@
 
 Breast cancer prediction
 
+Breast cancer is the most common type of cancer, with more than 2.2 million cases in 2020.
+
+About one in 12 women will develop breast cancer in their lifetime. Breast cancer is the leading cause of death among women. In 2020, around 685,000 women died of the disease.
+
+Most breast cancer cases and deaths occur in low- and middle-income countries.
+
 The purpose of this program is to analize different breast tumor characteristics to classify the tumor as bening or malignant. 
 the characteristics we are taking as features are.
 
@@ -19,6 +25,7 @@ the characteristics we are taking as features are.
 
 
 
+
 Algorithm: decision trees
 This is a classification algotithm. 
 
@@ -30,3 +37,6 @@ You can make a copy of the repository using the command git clone then you can m
 you can run it with the command python tree_cancer.py (it depends on the version)
 In the framework you will be asked to introduce 9 different numbers, one for each characteristic to consider in the calculation.
 The calculation is going to be the number of the class + --> + if the sample results malignant or benign.
+
+
+https://www.who.int/es/news-room/fact-sheets/detail/breast-cancer
